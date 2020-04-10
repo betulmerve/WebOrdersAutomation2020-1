@@ -126,4 +126,8 @@ public class BrowserUtilities {
             }
         }
     }
+
+    public static void try1(){
+        //deneme
+    }
 }
